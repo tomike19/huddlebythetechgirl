@@ -1,0 +1,236 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#imed{
+    background-color: #edfbfe; 
+    background-image: url('../images/bg-hero-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+
+.hu{
+    padding: 30px;
+    font-weight: bold;
+    margin-top: 15%;
+    font-size: 40px;
+}
+.yt{
+    
+    margin: 10px;
+    color:#84989d;
+
+}
+
+h1{
+    margin-top: 15%;
+    font-weight: bold;
+    color: #00232c;
+    padding: 20px;
+    
+}
+p{
+    padding: 10px;
+    color:#84989d;
+    font-size: 20px;
+}
+.button{
+    float: right;
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    border-color: white;
+    background-color: white;
+    color:#00232c ;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.imef{
+    margin-top: 40px;
+    width: 100%;
+    left: 50px;
+}
+.ip{
+    width: 200px;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.btn{
+    height: 60px;
+    width: 300px;
+    padding: 5px;
+    border-radius: 200px;
+    color: white;
+    background-color:#fe52c0;
+    font-weight: bold;
+    margin-left: 30px;
+    text-align: center;
+    
+}
+
+.imee{
+    width: 100px;
+    margin-top: 100px;
+}
+.first{
+    padding: 0px;
+    background-color: #fffefe;
+}
+.mii{
+    border-radius: 10px;
+    border: 0px;
+    margin: 40px;
+    box-shadow: 0 0 5px 1px lightgrey;
+    padding: 40px;
+
+
+}
+
+.imer{
+    width: 90%;
+
+}
+
+.second{
+    padding: 50px;
+    background-color: #fffefe;
+}
+.wer{
+    border-radius: 10px;
+    border: 0px;
+    margin: 40px;
+    box-shadow: 0 0 5px 1px lightgrey;
+    padding: 40px;
+
+
+}
+
+.imep{
+    width:90%;
+    
+}
+h5{
+    text-align: center;
+    margin-top: 60px;
+    
+}
+.her{
+    background-color: white;
+    border-radius:10px;
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    border: 0px;
+    margin-left: 300px;
+    box-shadow: 0px 0px 3px 3px #f9f8fe;
+    padding: 30px;
+   margin-top: 20px;
+   margin-bottom: -100px;
+     z-index: 10;
+   
+
+}
+
+
+
+.bty{
+height: 60px;
+width: 250px;
+padding: 10px;
+border-radius: 70px;
+color: white;
+background-color:#fe52c0;
+text-align: center;
+font-weight: bold;
+margin-top: 50px;
+
+}
+
+
+
+
+#mint{
+    margin-top: 50px;
+	padding: 70px;
+	background: #00252e;
+	
+   
+}
+
+#mint li{
+	font-size:100%;
+	color: white;
+	font-family:tahoma;
+	margin-top: 30px;
+	}
+
+	#mint i{
+        margin-top: 10px;
+		font-size:200%;
+		color: white;
+	
+        }
+        #mint h4{
+            color: white;
+        }
+        #mint .mo{
+            color: white;
+        }
+
+        #tr{
+            margin-top:15px;
+        }
+
+        #first{
+            padding: 0px;
+            background-color: #fffefe;
+        }
+
+
+
+        @media(max-width:600px) {
+        
+            #imed{
+                text-align: center;
+            }
+                .ip{
+
+                    width: 45%;
+                    margin-right: 120px;
+                    
+                }
+                .button{
+                    margin-right: 40px;
+                }
+
+
+                .imef{
+                    width: 70%;
+                }
+
+                
+             .her{
+                 text-align: center;
+                 display: block;
+                 margin-left: 20px;
+                 width: 90%;
+                 
+             }
+            #tr{
+                text-align: center;
+            }
+            .ko{
+                margin: auto;
+            }
+            h1{
+                font-size: 40px;
+            }
+            
+        }
+
+            
